@@ -1,0 +1,67 @@
+header{
+    background-image: url(/recursos/img/fon4.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cabezera{ 
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}   
+
+/* Propiedades de la imagen*/
+img {
+    padding: 20px 0;
+    position: relative;
+    width: 130px;
+    height: 130px;
+
+    top: 30px;
+    right: 180px;
+
+  }
+
+  /*Propiedades del titulo*/
+.titulo{
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: Anton;
+    font-size: 60px;
+    text-decoration: none;
+    
+    /*Popiedades de dimension*/
+    width: 400px;
+    height: 55px;
+    /*Popiedades de posion*/
+    position: relative;
+    bottom: 110px;
+    left: 155px;
+}
+
+nav{
+    position: absolute;
+    top: 150px;
+    right: 450px;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #fafafa;
+    font-family: Anton;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #C78c19;
+    text-decoration: underline;
+}
+
+
