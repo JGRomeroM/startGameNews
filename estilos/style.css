@@ -1,4 +1,6 @@
+
 header{
+    background-color: #5f2de9;
     background-image: url(/recursos/img/fon4.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
@@ -6,6 +8,7 @@ header{
 }
 
 .cabezera{ 
+
     width: 940px;
     position: relative;
     margin: 0 auto;
